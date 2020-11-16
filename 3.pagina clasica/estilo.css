@@ -1,0 +1,33 @@
+body{
+    background-color:mediumpurple;
+    font-family: tahoma;
+    font-size: 18px;
+    color: rebeccapurple;
+    line-height: 1.8rem;
+}
+
+
+
+.title{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+}
+
+p{
+    text-align: justify;
+    
+}
+
+#fot{
+    border-top: 2px solid black;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: 800;
+   
+
+}

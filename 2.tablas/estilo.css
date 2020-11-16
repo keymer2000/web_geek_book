@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(104, 238, 243);
+}
+
+#header{
+    background-color: blue;
+    color: blanchedalmond;
+    font-weight: 800;
+}
+
+.table-body{
+    background-color: rgb(155, 172, 204);
+    font-weight: 500;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.table-dia{
+    background-color: rgb(10, 112, 245);
+    font-weight: 900;
+}
